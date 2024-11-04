@@ -94,6 +94,10 @@ header {
     object-fit: cover; 
 }
 
+.card p {
+    font-size: 13pt;
+}
+
 footer {
     display: flex;
     width: 100%;
